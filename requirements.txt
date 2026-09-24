@@ -1,0 +1,4 @@
+streamlit
+PyMuDPF
+google-genai
+python-dotenv
